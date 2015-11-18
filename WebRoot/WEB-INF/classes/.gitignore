@@ -1,0 +1,11 @@
+/.struts.mex
+/applicationContext.xml
+/cn/
+/default.properties
+/hibernate.cfg.xml
+/jbpm.cfg.xml
+/jdbc.properties
+/log4j.properties
+/org/
+/struts.xml
+/template/
